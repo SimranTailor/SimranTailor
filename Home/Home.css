@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    margin-left: 350px;
+    margin-top: 320px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: white;
+}
+span{
+    color: rgb(132, 182, 132);
+}
+button{
+    background-color: black;
+    border-color: rgb(132, 182, 132);
+    font-size: 21px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
