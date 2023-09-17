@@ -2,7 +2,7 @@
 <h3> A Cyber Security and Forensics Student</h3>
 <p>As a recent graduate with a degree in Cyber Security and Forensics, my objective is to secure a challenging role in the field where I can apply my academic knowledge and skills to contribute to the success of an organization. With a strong foundation in security protocols, programming languages, and network administration, I am eager to gain practical experience and learn new skills in a dynamic and fast-paced environment</p>
 
-<img align="right" alt="coding" src="https://github.com/SimranTailor/SimranTailor/blob/main/Animated.gif">
+<img align="right" alt="coding" height="200" width="300" src="https://github.com/SimranTailor/SimranTailor/blob/main/Animated.gif">
 
 <h3>Internship</h3>
 <h4>Summer Intern at Here Technologies (Jun 2023 - July 2023)</h4>
