@@ -1,6 +1,6 @@
 <h1>Hi, I'm Simran Tailor!</h1>
 <h3> A Cyber Security and Forensics Student</h3>
-<img align="right" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" src="https://github.com/SimranTailor/SimranTailor/blob/main/Animated.gif">
 
 <h2>Connect with me:</h2>
 
